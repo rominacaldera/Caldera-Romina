@@ -1,0 +1,18 @@
+$ history 50
+    1  wc El-arriero.txt
+    2  wc -w El-arriero.txt
+    3  cat El-arriero.txt | sort |uniq -w vaquitas
+    4  cat El-arriero.txt | sort | uniq -w vaquitas
+    5  cat El-arriero.txt | sort | uniqu -w
+    6  cat El-arriero.txt | sort | uniq -w
+    7  cat El-arrierto.txt | sort | uniq ´vaquitas´
+    8  cat El-arriero.txt | tr ' ' '\n' | grep 'vaquitas' | wc -l
+    9  touch  50-comandos.log
+   10  echo git log -n 50 > 50-comandos.log
+   11  echo history -no 50 > 50-comandos.log
+   12  history -n 50
+   13  history
+   14  history 50
+   15  echo history 50 > 50-comandos.log
+   16  echo "history 50" > 50-comandos.log
+   17  history 50
